@@ -1,0 +1,1 @@
+This is a fully encapsulated Clarity seed environment. To edit files you need to run **docker exec -it (container-name) /bin/bash** to gain access to the console. The Dockerfile has a few self-documenting comments at the bottom. This option requires Docker to already be installed and basic Docker knowledge.
