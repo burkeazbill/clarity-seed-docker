@@ -27,3 +27,6 @@ If you wish to run Angular CLI commands as per the Clarity-seed project document
 
 You should see your newly generated files appear under clarity-seed\src\app on your local filesystem!
 ![ng command to build service](./screenshots/ng-command.png)
+
+## SPECIAL THANKS
+Thanks Timo for your assistance in getting the Dev version here figured out with me!
