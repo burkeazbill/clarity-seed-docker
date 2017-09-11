@@ -15,7 +15,7 @@ Now that you have the prerequisites met, simply run the build.sh file! (OK Windo
 
 Once you have run the file, the following should have happened:
 1) The clarity-seed project should have cloned to a sub-directory named clarity-seed
-2) A Node 6.11.3 and Angular 1.3.2 container should have been built, exposing port 4200 and Volume /project
+2) A Node 6.11.3, Angular 4.3.5 and Angular-CLI 1.3.2 container should have been built, exposing port 4200 and Volume /project
 3) The container built in step 2 should now be running as clarity-seed with port 4200 open and listening for requests. Additionally, the clarity-seed sub-directory you have should now be mounted in to the container.
 
 End results (it may take a minute or two for yarn to complete and the web server to start): You should now be able to point a browser to http://localhost:4200 and see the default clarity-seed homepage! And, you should be able to edit files locally in that clarity-seed folder and see your changes reflected automatically on the web page.
